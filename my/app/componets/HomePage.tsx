@@ -8,7 +8,7 @@ import Vault from "./Vault";
 import { Sun, Moon } from "lucide-react";
 
 export default function Home() {
-  const API_URL = "https://password-gernrator-mqnu.vercel.app";
+  const API_URL = "https://password-gernrator-shsy.vercel.app";
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [signed, setSigned] = useState(false);
