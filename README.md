@@ -3,10 +3,9 @@
 > A **privacy-first web app** that lets users generate strong passwords and store them securely in an encrypted vault — built with **Next.js**, **Node.js**, and **MongoDB**.
 
 🔗 Live Demo: https://password-eta-sand.vercel.app/
+🔗 Backend: https://password-gernrator-shsy.vercel.app/
 
-
-
-   Backend: https://password-gernrator-shsy.vercel.app/
+🔗 Video :https://drive.google.com/file/d/1fPF4zgyX8U-5cwaB7O-2pIERoEhjgX7T/view?usp=sharing
 ---
 
 ## 🚀 Overview
