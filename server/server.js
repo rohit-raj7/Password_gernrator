@@ -12,7 +12,7 @@ const app = express();
 // Connect DB
 await connectDB();
 
-const allowedOrigins = ["http://localhost:3001","http://localhost:5000",
+const allowedOrigins = ["http://localhost:3001","http://localhost:5173",
   "https://password-eta-sand.vercel.app"];
 
 app.use(
