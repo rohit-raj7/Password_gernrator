@@ -13,7 +13,7 @@ const app = express();
 await connectDB();
 
 const allowedOrigins = ["http://localhost:3001","http://localhost:5000",
-  "https://ai-interviewnow.vercel.app"];
+  "https://password-eta-sand.vercel.app"];
 
 app.use(
   cors({
